@@ -1,6 +1,0 @@
-Credentials cache: API:691B9909-8EE5-4CB5-814A-444F362AA511
-        Principal: marimatt@42ROMA.IT
-
-  Issued                Expires               Principal
-Sep 28 10:25:15 2021  Sep 28 20:25:15 2021  krbtgt/42ROMA.IT@42ROMA.IT
-Sep 28 10:25:18 2021  Sep 28 20:25:15 2021  HTTP/storage.42roma.it@42ROMA.IT
